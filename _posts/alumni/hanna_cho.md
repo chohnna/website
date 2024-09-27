@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Hanna Cho
 description: Graduate Student 
 author: Mayhall Group 
