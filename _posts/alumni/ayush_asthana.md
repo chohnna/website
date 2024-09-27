@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Ayush Asthana 
 description: Postdoctoral Associate
 author: Mayhall Group 
@@ -8,7 +8,7 @@ image: assets/images/people/ayush_asthana.jpg
 nav-menu: false 
 scholar_url: https://scholar.google.com/citations?user=J4V8W7sAAAAJ&hl=en&oi=ao 
 email:Email: aasthana@vt.edu
-phone: 
+location: University of North Dakota
 ---
 
 ## Research Interests
