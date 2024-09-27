@@ -9,7 +9,7 @@ nav-menu: false
 slack_url: 
 email: bertelslw@ornl.gov
 phone: 
-location: Oakridge National Laboratory
+location: Oak ridge National Laboratory
 ---
 
 ## Research Interests
