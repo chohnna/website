@@ -1,7 +1,7 @@
 ---
 layout: post 
 nav-menu: false 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Yue Bao 
 author: Valeev Group 
 description: Graduate Student 
