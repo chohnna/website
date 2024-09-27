@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Sarasi Banerjee 
 description: Graduate Student 
 author: Welborn Group 
