@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Diksha Dhwawan 
 description: Postdoctoral Associate
 author: Mayhall Group 
@@ -9,6 +9,7 @@ nav-menu: false
 slack_url: 
 email: ddhawan@vt.edu 
 phone: 
+location: Quantum Software Developer at Xanadu
 ---
 
 ## Research Interests
