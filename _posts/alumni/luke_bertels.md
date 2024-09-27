@@ -1,14 +1,15 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Luke Bertels 
 description: Postdoctoral Associate
 author: Mayhall Group 
 image: assets/images/people/luke_bertels.jpg
 nav-menu: false 
 slack_url: 
-email:Email: lwbertels@vt.edu 
+email: bertelslw@ornl.gov
 phone: 
+location: Oakridge National Laboratory
 ---
 
 ## Research Interests
