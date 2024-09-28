@@ -5,7 +5,7 @@ title: Arnab Bachhar
 description: Graduate Student 
 author: Mayhall Group 
 nav-menu: false 
-image: assets/images/people/arnab_bachar.jpg
+image: assets/images/people/arnab_bachhar.jpg
 ---
 ## Research Interests
 - FermiCG
