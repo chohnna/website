@@ -16,4 +16,4 @@ image: assets/images/people/arnab_bachar.jpg
 - MS: IIT Bombay (Advisor: Prof. Gopalan Rajaraman) 
 Email: arnab22@vt.edu
 Projects: FermiCG
-github: 
+github: https://github.com/arnab82
