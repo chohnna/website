@@ -1,12 +1,13 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Yi Zheng 
 description: Graduate Student 
 author: Welborn Group 
 image: assets/images/people/yi_zheng.jpg
 nav-menu: false 
 email: yiz19@vt.edu 
+location: Process Development Senior Scientist at Amgen
 ---
 
 ## Research Interests
